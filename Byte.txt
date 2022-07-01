@@ -1,3 +1,6 @@
 Byte Academy is a coding school
 
 Byte Academy Has a new Platform called Nestria
+
+Byte Academy is in Bangalore and Mumbai
+
